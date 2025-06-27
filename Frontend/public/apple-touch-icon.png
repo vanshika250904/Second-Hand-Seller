@@ -1,1 +1,3 @@
-
+git add images/apple-touch-icon.png/apple-touch-icon.png
+git commit -m "Add image and updated"
+git push origin main
