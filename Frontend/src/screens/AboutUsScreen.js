@@ -27,14 +27,14 @@ const AboutUsScreen = () => {
           <h1>Developer</h1>
           <p>
             Designed and developed by{' '}
-            Sourav Manna{' '}
+            Vanshika Agarwal{' '}
           </p>
           <h3>Contact Details</h3>
           <i className='fas fa-phone'></i> 703*****02
           <br />
           <i className='fas fa-envelope-square'></i>{' '}
           <a target='_blank' href={`mailto:mannasourav111@gmail.com`}>
-            mannasourav111@gmail.com
+            vanshika111@gmail.com
           </a>
           <br />
         </Col>
