@@ -12,7 +12,7 @@ const getProducts = asyncHandler(async (req, res) => {
       },
     }
     : {}
-  console.log("LUND >>>> ", keyword)
+  console.log("ABCD >>>> ", keyword)
   const count = await Product.countDocuments({ ...keyword })
   const products = await Product.find({}, null, {
     sort: { createdAt: -1 },
