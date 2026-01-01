@@ -34,7 +34,7 @@ const AboutUsScreen = () => {
           <br />
           <i className='fas fa-envelope-square'></i>{' '}
           <a target='_blank' href={`mailto:mannasourav111@gmail.com`}>
-            vanshika111@gmail.com
+            vanshika@gmail.com
           </a>
           <br />
         </Col>
