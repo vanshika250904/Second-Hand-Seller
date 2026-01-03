@@ -33,7 +33,7 @@ const AboutUsScreen = () => {
           <i className='fas fa-phone'></i> 703*****02
           <br />
           <i className='fas fa-envelope-square'></i>{' '}
-          <a target='_blank' href={`mailto:vanshika111@gmail.com`}>
+          <a target='_blank' href={`mailto:vanshika@gmail.com`}>
             vanshika@gmail.com
           </a>
           <br />
